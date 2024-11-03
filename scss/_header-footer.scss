@@ -25,7 +25,8 @@ header {
       justify-content: space-between;
 
       .nav-list {
-        width: 609px;
+        max-width: 609px;
+        width: 100%;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -93,7 +94,8 @@ footer {
       }
 
       .contact-box {
-        width: 593px;
+        max-width: 593px;
+        width: 100%;
         display: flex;
         align-items: center;
         justify-content: space-between;
