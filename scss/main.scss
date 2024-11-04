@@ -45,6 +45,18 @@ main {
       }
     }
 
+    p {
+      max-width: 636px;
+
+      font-family: "Poppins";
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 46px;
+      text-align: left;
+      color: $secondaryColor;
+      margin-top: 20px;
+    }
+
     .img-div {
       width: 350px;
       height: 350px;
@@ -133,6 +145,10 @@ main {
     align-items: center;
 
     h1 {
+      text-align: center;
+    }
+
+    p {
       text-align: center;
     }
   }

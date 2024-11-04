@@ -40,7 +40,7 @@ header {
       }
 
       .nav-list a:hover {
-        font-weight: 700;
+        text-shadow: 0 0 0.8px #000080;
         color: #000080;
         transition: 0.3s ease;
       }
@@ -162,7 +162,7 @@ footer {
           }
 
           a:hover {
-            font-weight: 700;
+            text-shadow: 0 0 0.8px #000080;
             color: #000080;
             transition: 0.3s ease;
           }
